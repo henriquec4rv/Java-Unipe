@@ -1,7 +1,6 @@
 package aula;
 
 import java.util.Scanner;
-import java.util.scaner;
 public class Ex04 {
 
 	public static void main(String[] args) {
